@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -e $((128 + TRUEKNOWLEDGE)) >> 8-true_knowledge
+echo echo -e 128
